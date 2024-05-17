@@ -10,3 +10,5 @@ public class Problem5 {
        System.out.print((lendedInterest-borrowedInterest)/m);
     }
 }
+
+//In this problem the code Architecture is awfull
