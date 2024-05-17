@@ -11,4 +11,4 @@ public class Problem5 {
     }
 }
 
-//In this problem the code Architec
+//In this problem
