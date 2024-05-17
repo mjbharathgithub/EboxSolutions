@@ -10,5 +10,3 @@ public class Problem5 {
        System.out.print((lendedInterest-borrowedInterest)/m);
     }
 }
-
-//In th
